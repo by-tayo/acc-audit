@@ -1,0 +1,14 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "AllowS3PublicAccessBlockRemediation",
+      "Effect": "Allow",
+      "Action": [
+        "s3:PutBucketPublicAccessBlock",
+        "s3:GetBucketPublicAccessBlock"
+      ],
+      "Resource": "arn:aws:s3:::*"
+    }
+  ]
+}

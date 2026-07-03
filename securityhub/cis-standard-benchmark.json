@@ -1,0 +1,13 @@
+[
+  {
+    "StandardsArn": "arn:aws:securityhub:::standards/cis-aws-foundations-benchmark/v/1.4.0"
+  },
+  {
+    "StandardsArn": "arn:aws:securityhub:::standards/pci-dss/v/3.2.1"
+  },
+  {
+    "StandardsArn": "arn:aws:securityhub:us-east-1::standards/hipaa-security"
+  }
+]
+
+
