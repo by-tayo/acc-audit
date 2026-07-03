@@ -1,0 +1,7 @@
+extends: default
+
+rules:
+  document-start: disable
+  new-lines: disable
+  empty-lines:
+    max: 2
