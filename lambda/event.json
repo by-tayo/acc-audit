@@ -1,0 +1,14 @@
+{
+  "detail": {
+    "findings": [
+      {
+        "Resources": [
+          {
+            "Type": "AwsS3Bucket",
+            "Id": "arn:aws:s3:::securityhub-test-bucket-829578223358"
+          }
+        ]
+      }
+    ]
+  }
+}

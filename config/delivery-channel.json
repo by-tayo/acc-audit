@@ -1,0 +1,4 @@
+{
+    "name": "default",
+    "s3BucketName": "auditing-config-bucket"
+  }
